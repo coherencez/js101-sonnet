@@ -1,0 +1,9 @@
+html {
+	font-family: sans-serif;
+}
+.jsOutput {
+	border: 5px solid black;
+	background: radial-gradient(rgba(255, 0, 0, .5), rgba(255, 255, 255, .5), rgba(0, 0, 255, .5));
+	font-weight: 500;
+	padding: 5%;
+}
